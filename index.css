@@ -783,7 +783,7 @@ z-index: -1; /* Ensure the overlay stays behind the content but above the image 
 .affix {
   padding: 0;
   background-color: transparent;
-  border: 1px solid gray;
+  border-bottom: 1px solid gray;
   backdrop-filter: blur(30px);
 }
 
