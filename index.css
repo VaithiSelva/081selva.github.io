@@ -911,3 +911,13 @@ width: 0;
  }
  
 }
+@media screen and (max-width: 465px) {
+ .progress{
+  width: 300px;
+ }
+ .inptFld{
+  width:100%;
+
+ }
+  
+ }
